@@ -1,0 +1,1482 @@
+{
+  "csk": [
+    {
+      "name": "Ruturaj Gaikwad",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "5443"
+    },
+    {
+      "name": "MS Dhoni",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "1"
+    },
+    {
+      "name": "Sanju Samson",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "258"
+    },
+    {
+      "name": "Dewald Brevis",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "20593"
+    },
+    {
+      "name": "Ayush Mhatre",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "22377"
+    },
+    {
+      "name": "Kartik Sharma",
+      "role": "WK",
+      "isOverseas": false
+    },
+    {
+      "name": "Sarfaraz Khan",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "1564"
+    },
+    {
+      "name": "Urvil Patel",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "5653"
+    },
+    {
+      "name": "Anshul Kamboj",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20702"
+    },
+    {
+      "name": "Jamie Overton",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "22109"
+    },
+    {
+      "name": "Ramakrishna Ghosh",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "22153"
+    },
+    {
+      "name": "Prashant Veer",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Matthew William Short",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "2032"
+    },
+    {
+      "name": "Aman Khan",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20581"
+    },
+    {
+      "name": "Zak Foulkes",
+      "role": "AR",
+      "isOverseas": true
+    },
+    {
+      "name": "Shivam Dube",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "5431"
+    },
+    {
+      "name": "Khaleel Ahmed",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "2964"
+    },
+    {
+      "name": "Noor Ahmad",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "20590"
+    },
+    {
+      "name": "Mukesh Choudhary",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20575"
+    },
+    {
+      "name": "Nathan Ellis",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "17118"
+    },
+    {
+      "name": "Shreyas Gopal",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20696"
+    },
+    {
+      "name": "Gurjapneet Singh",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "22032"
+    },
+    {
+      "name": "Akeal Hosein",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "5608"
+    },
+    {
+      "name": "Matt Henry",
+      "role": "BOWL",
+      "isOverseas": true
+    },
+    {
+      "name": "Rahul Chahar",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "3763"
+    }
+  ],
+  "dc": [
+    {
+      "name": "KL Rahul",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "1125"
+    },
+    {
+      "name": "Karun Nair",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "276"
+    },
+    {
+      "name": "David Miller",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "187"
+    },
+    {
+      "name": "Ben Duckett",
+      "role": "WK",
+      "isOverseas": true
+    },
+    {
+      "name": "Pathum Nissanka",
+      "role": "BAT",
+      "isOverseas": true
+    },
+    {
+      "name": "Sahil Parakh",
+      "role": "BAT",
+      "isOverseas": false
+    },
+    {
+      "name": "Prithvi Shaw",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "3764"
+    },
+    {
+      "name": "Abishek Porel",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "33333"
+    },
+    {
+      "name": "Tristan Stubbs",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "20631"
+    },
+    {
+      "name": "Axar Patel",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "1113"
+    },
+    {
+      "name": "Sameer Rizvi",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20689"
+    },
+    {
+      "name": "Ashutosh Sharma",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20703"
+    },
+    {
+      "name": "Vipraj Nigam",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "22053"
+    },
+    {
+      "name": "Ajay Mandal",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "5811"
+    },
+    {
+      "name": "Tripurana Vijay",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "22252"
+    },
+    {
+      "name": "Madhav Tiwari",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "22259"
+    },
+    {
+      "name": "Auqib Dar",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Nitish Rana",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "2738"
+    },
+    {
+      "name": "Mitchell Starc",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "490"
+    },
+    {
+      "name": "T. Natarajan",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "3831"
+    },
+    {
+      "name": "Mukesh Kumar",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "5622"
+    },
+    {
+      "name": "Dushmantha Chameera",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "817"
+    },
+    {
+      "name": "Lungisani Ngidi",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "3746"
+    },
+    {
+      "name": "Kyle Jamieson",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "1616"
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "261"
+    }
+  ],
+  "gt": [
+    {
+      "name": "Shubman Gill",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "3761"
+    },
+    {
+      "name": "Jos Buttler",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "509"
+    },
+    {
+      "name": "Kumar Kushagra",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "20694"
+    },
+    {
+      "name": "Anuj Rawat",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "10788"
+    },
+    {
+      "name": "Tom Banton",
+      "role": "WK",
+      "isOverseas": true
+    },
+    {
+      "name": "Glenn Phillips",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "3027"
+    },
+    {
+      "name": "Nishant Sindhu",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "5615"
+    },
+    {
+      "name": "Washington Sundar",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "2973"
+    },
+    {
+      "name": "Mohd. Arshad Khan",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20599"
+    },
+    {
+      "name": "Sai Kishore",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "7123"
+    },
+    {
+      "name": "Jayant Yadav",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "1740"
+    },
+    {
+      "name": "Jason Holder",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "1075"
+    },
+    {
+      "name": "Sai Sudharsan",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20592"
+    },
+    {
+      "name": "Shahrukh Khan",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "7779"
+    },
+    {
+      "name": "Kagiso Rabada",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "1664"
+    },
+    {
+      "name": "Mohammed Siraj",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "3840"
+    },
+    {
+      "name": "Prasidh Krishna",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "5105"
+    },
+    {
+      "name": "Manav Suthar",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20692"
+    },
+    {
+      "name": "Gurnoor Singh Brar",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "1094"
+    },
+    {
+      "name": "Ishant Sharma",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "38"
+    },
+    {
+      "name": "Ashok Sharma",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20584"
+    },
+    {
+      "name": "Prithvi Raj Yarra",
+      "role": "BOWL",
+      "isOverseas": false
+    },
+    {
+      "name": "Luke Wood",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "20721"
+    },
+    {
+      "name": "Rahul Tewatia",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "1749"
+    },
+    {
+      "name": "Rashid Khan",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "2885"
+    }
+  ],
+  "kkr": [
+    {
+      "name": "Ajinkya Rahane",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "135"
+    },
+    {
+      "name": "Rinku Singh",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "3830"
+    },
+    {
+      "name": "Angkrish Raghuvanshi",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "20690"
+    },
+    {
+      "name": "Manish Pandey",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "123"
+    },
+    {
+      "name": "Cameron Green",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "5602"
+    },
+    {
+      "name": "Finn Allen",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "3020"
+    },
+    {
+      "name": "Tejasvi Singh",
+      "role": "WK",
+      "isOverseas": false
+    },
+    {
+      "name": "Rahul Tripathi",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "3838"
+    },
+    {
+      "name": "Tim Seifert",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "1619"
+    },
+    {
+      "name": "Rovman Powell",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "3333"
+    },
+    {
+      "name": "Anukul Roy",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "3774"
+    },
+    {
+      "name": "Sarthak Ranjan",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Daksh Kamra",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Rachin Ravindra",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "20684"
+    },
+    {
+      "name": "Ramandeep Singh",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20595"
+    },
+    {
+      "name": "Blessing Muzarabani",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "22387"
+    },
+    {
+      "name": "Vaibhav Arora",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "14859"
+    },
+    {
+      "name": "Matheesha Pathirana",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "20627"
+    },
+    {
+      "name": "Kartik Tyagi",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "10059"
+    },
+    {
+      "name": "Prashant Solanki",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20576"
+    },
+    {
+      "name": "Akash Deep",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "14800"
+    },
+    {
+      "name": "Harshit Rana",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20626"
+    },
+    {
+      "name": "Umran Malik",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "15154"
+    },
+    {
+      "name": "Sunil Narine",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "203"
+    },
+    {
+      "name": "Varun Chakaravarthy",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "5432"
+    }
+  ],
+  "lsg": [
+    {
+      "name": "Rishabh Pant",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "2972"
+    },
+    {
+      "name": "Aiden Markram",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "1667"
+    },
+    {
+      "name": "Himmat Singh",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "5434"
+    },
+    {
+      "name": "Matthew Breetzke",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "22375"
+    },
+    {
+      "name": "Mukul Choudhary",
+      "role": "WK",
+      "isOverseas": false
+    },
+    {
+      "name": "Akshat Raghuwanshi",
+      "role": "BAT",
+      "isOverseas": false
+    },
+    {
+      "name": "Josh Inglis",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "22372"
+    },
+    {
+      "name": "Nicholas Pooran",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "1703"
+    },
+    {
+      "name": "Mitchell Marsh",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "221"
+    },
+    {
+      "name": "Abdul Samad",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "19352"
+    },
+    {
+      "name": "Shahbaz Ahamad",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "13803"
+    },
+    {
+      "name": "Arshin Kulkarni",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20691"
+    },
+    {
+      "name": "Wanindu Hasaranga",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "3082"
+    },
+    {
+      "name": "Ayush Badoni",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20586"
+    },
+    {
+      "name": "Mohammad Shami",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "94"
+    },
+    {
+      "name": "Avesh Khan",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "1561"
+    },
+    {
+      "name": "M. Siddharth",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "7119"
+    },
+    {
+      "name": "Digvesh Singh",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "5847"
+    },
+    {
+      "name": "Akash Singh",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "12585"
+    },
+    {
+      "name": "Prince Yadav",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "22097"
+    },
+    {
+      "name": "Arjun Tendulkar",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "10244"
+    },
+    {
+      "name": "Anrich Nortje",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "5433"
+    },
+    {
+      "name": "Naman Tiwari",
+      "role": "BOWL",
+      "isOverseas": false
+    },
+    {
+      "name": "Mayank Yadav",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20585"
+    },
+    {
+      "name": "Mohsin Khan",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "4952"
+    }
+  ],
+  "mi": [
+    {
+      "name": "Rohit Sharma",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "107"
+    },
+    {
+      "name": "Surya Kumar Yadav",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "108"
+    },
+    {
+      "name": "Robin Minz",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "20707"
+    },
+    {
+      "name": "Sherfane Rutherford",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "5396"
+    },
+    {
+      "name": "Ryan Rickelton",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "22003"
+    },
+    {
+      "name": "Quinton de Kock",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "834"
+    },
+    {
+      "name": "Danish Malewar",
+      "role": "BAT",
+      "isOverseas": false
+    },
+    {
+      "name": "N. Tilak Varma",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "20594"
+    },
+    {
+      "name": "Hardik Pandya",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "2740"
+    },
+    {
+      "name": "Naman Dhir",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20701"
+    },
+    {
+      "name": "Mitchell Santner",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "1903"
+    },
+    {
+      "name": "Raj Angad Bawa",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20601"
+    },
+    {
+      "name": "Atharva Ankolekar",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Mayank Rawat",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Corbin Bosch",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "20680"
+    },
+    {
+      "name": "Will Jacks",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "5629"
+    },
+    {
+      "name": "Shardul Thakur",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "1745"
+    },
+    {
+      "name": "Trent Boult",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "969"
+    },
+    {
+      "name": "Mayank Markande",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "4951"
+    },
+    {
+      "name": "Deepak Chahar",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "140"
+    },
+    {
+      "name": "Ashwani Kumar",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "22030"
+    },
+    {
+      "name": "Raghu Sharma",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "22379"
+    },
+    {
+      "name": "Mohammad Izhar",
+      "role": "BOWL",
+      "isOverseas": false
+    },
+    {
+      "name": "Allah Ghazanfar",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "20725"
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "1124"
+    }
+  ],
+  "pbks": [
+    {
+      "name": "Shreyas Iyer",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "1563"
+    },
+    {
+      "name": "Nehal Wadhera",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "5859"
+    },
+    {
+      "name": "Vishnu Vinod",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "4305"
+    },
+    {
+      "name": "Harnoor Pannu",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "22019"
+    },
+    {
+      "name": "Pyla Avinash",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "22145"
+    },
+    {
+      "name": "Prabhsimran Singh",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "5436"
+    },
+    {
+      "name": "Shashank Singh",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "3261"
+    },
+    {
+      "name": "Marcus Stoinis",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "964"
+    },
+    {
+      "name": "Harpreet Brar",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "5441"
+    },
+    {
+      "name": "Marco Jansen",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "17068"
+    },
+    {
+      "name": "Azmatullah Omarzai",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "20685"
+    },
+    {
+      "name": "Priyansh Arya",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "22052"
+    },
+    {
+      "name": "Musheer Khan",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "22085"
+    },
+    {
+      "name": "Suryansh Shedge",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20683"
+    },
+    {
+      "name": "Mitch Owen",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "22380"
+    },
+    {
+      "name": "Cooper Connolly",
+      "role": "AR",
+      "isOverseas": true
+    },
+    {
+      "name": "Ben Dwarshuis",
+      "role": "AR",
+      "isOverseas": true
+    },
+    {
+      "name": "Arshdeep Singh",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "4698"
+    },
+    {
+      "name": "Yuzvendra Chahal",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "111"
+    },
+    {
+      "name": "Vyshak Vijaykumar",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "1097"
+    },
+    {
+      "name": "Yash Thakur",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "5624"
+    },
+    {
+      "name": "Xavier Bartlett",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "22112"
+    },
+    {
+      "name": "Pravin Dubey",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "3188"
+    },
+    {
+      "name": "Vishal Nishad",
+      "role": "BOWL",
+      "isOverseas": false
+    },
+    {
+      "name": "Lockie Ferguson",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "3729"
+    }
+  ],
+  "rr": [
+    {
+      "name": "Riyan Parag",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "4445"
+    },
+    {
+      "name": "Shubham Dubey",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "20688"
+    },
+    {
+      "name": "Vaibhav Suryavanshi",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "22203"
+    },
+    {
+      "name": "Donovan Ferreira",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "5652"
+    },
+    {
+      "name": "Lhuan-dre Pretorius",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "22383"
+    },
+    {
+      "name": "Ravi Singh",
+      "role": "WK",
+      "isOverseas": false
+    },
+    {
+      "name": "Aman Rao Perala",
+      "role": "BAT",
+      "isOverseas": false
+    },
+    {
+      "name": "Shimron Hetmyer",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "1705"
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "13538"
+    },
+    {
+      "name": "Dhruv Jurel",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "20620"
+    },
+    {
+      "name": "Yudhvir Singh Charak",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "10842"
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "9"
+    },
+    {
+      "name": "Sam Curran",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "2939"
+    },
+    {
+      "name": "Jofra Archer",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "3502"
+    },
+    {
+      "name": "Tushar Deshpande",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "3257"
+    },
+    {
+      "name": "Kwena Maphaka",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "20724"
+    },
+    {
+      "name": "Ravi Bishnoi",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "19351"
+    },
+    {
+      "name": "Sushant Mishra",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20695"
+    },
+    {
+      "name": "Yash Raj Punja",
+      "role": "BOWL",
+      "isOverseas": false
+    },
+    {
+      "name": "Vignesh Puthur",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "22266"
+    },
+    {
+      "name": "Brijesh Sharma",
+      "role": "BOWL",
+      "isOverseas": false
+    },
+    {
+      "name": "Adam Milne",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "434"
+    },
+    {
+      "name": "Kuldeep Sen",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20616"
+    },
+    {
+      "name": "Sandeep Sharma",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "1112"
+    },
+    {
+      "name": "Nandre Burger",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "20716"
+    }
+  ],
+  "rcb": [
+    {
+      "name": "Rajat Patidar",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "5471"
+    },
+    {
+      "name": "Devdutt Padikkal",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "5430"
+    },
+    {
+      "name": "Virat Kohli",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "164"
+    },
+    {
+      "name": "Phil Salt",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "5606"
+    },
+    {
+      "name": "Jitesh Sharma",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "3185"
+    },
+    {
+      "name": "Jordan Cox",
+      "role": "WK",
+      "isOverseas": true
+    },
+    {
+      "name": "Krunal Pandya",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "3183"
+    },
+    {
+      "name": "Swapnil Singh",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "3180"
+    },
+    {
+      "name": "Tim David",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "4524"
+    },
+    {
+      "name": "Romario Shepherd",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "20609"
+    },
+    {
+      "name": "Jacob Bethell",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "22074"
+    },
+    {
+      "name": "Venkatesh Iyer",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "8540"
+    },
+    {
+      "name": "Satvik Deswal",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Mangesh Yadav",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Vicky Ostwal",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "20624"
+    },
+    {
+      "name": "Vihaan Malhotra",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Kanishk Chouhan",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Josh Hazlewood",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "857"
+    },
+    {
+      "name": "Rasikh Dar",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20577"
+    },
+    {
+      "name": "Suyash Sharma",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "5668"
+    },
+    {
+      "name": "Bhuvneshwar Kumar",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "116"
+    },
+    {
+      "name": "Nuwan Thushara",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "20700"
+    },
+    {
+      "name": "Abhinandan Singh",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "22136"
+    },
+    {
+      "name": "Jacob Duffy",
+      "role": "BOWL",
+      "isOverseas": true
+    },
+    {
+      "name": "Yash Dayal",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20591"
+    }
+  ],
+  "srh": [
+    {
+      "name": "Ishan Kishan",
+      "role": "WK",
+      "isOverseas": false,
+      "imageId": "2975"
+    },
+    {
+      "name": "Aniket Verma",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "22082"
+    },
+    {
+      "name": "Smaran Ravichandran",
+      "role": "BAT",
+      "isOverseas": false,
+      "imageId": "22378"
+    },
+    {
+      "name": "Salil Arora",
+      "role": "WK",
+      "isOverseas": false
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "role": "WK",
+      "isOverseas": true,
+      "imageId": "3869"
+    },
+    {
+      "name": "Travis Head",
+      "role": "BAT",
+      "isOverseas": true,
+      "imageId": "1020"
+    },
+    {
+      "name": "Harshal Patel",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "157"
+    },
+    {
+      "name": "Kamindu Mendis",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "22077"
+    },
+    {
+      "name": "Harsh Dubey",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "22381"
+    },
+    {
+      "name": "Brydon Carse",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "22075"
+    },
+    {
+      "name": "Shivang Kumar",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Krains Fuletra",
+      "role": "AR",
+      "isOverseas": false
+    },
+    {
+      "name": "Liam Livingstone",
+      "role": "AR",
+      "isOverseas": true,
+      "imageId": "3644"
+    },
+    {
+      "name": "Jack Edwards",
+      "role": "AR",
+      "isOverseas": true
+    },
+    {
+      "name": "Abhishek Sharma",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "3760"
+    },
+    {
+      "name": "Nitish Kumar Reddy",
+      "role": "AR",
+      "isOverseas": false,
+      "imageId": "5711"
+    },
+    {
+      "name": "Pat Cummins",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "488"
+    },
+    {
+      "name": "Zeeshan Ansari",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "22007"
+    },
+    {
+      "name": "Jaydev Unadkat",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "86"
+    },
+    {
+      "name": "Eshan Malinga",
+      "role": "BOWL",
+      "isOverseas": true,
+      "imageId": "22228"
+    },
+    {
+      "name": "Sakib Hussain",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "20717"
+    },
+    {
+      "name": "Onkar Tarmale",
+      "role": "BOWL",
+      "isOverseas": false
+    },
+    {
+      "name": "Amit Kumar",
+      "role": "BOWL",
+      "isOverseas": false
+    },
+    {
+      "name": "Praful Hinge",
+      "role": "BOWL",
+      "isOverseas": false
+    },
+    {
+      "name": "Shivam Mavi",
+      "role": "BOWL",
+      "isOverseas": false,
+      "imageId": "3779"
+    }
+  ]
+}
